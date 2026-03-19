@@ -20,15 +20,3 @@ The kernel acts as a bridge between the underlying RISC-V hardware and user appl
 * **Architecture:** RISC-V (RV64).
 * **Emulator:** QEMU (used for testing and debugging the kernel in a simulated RISC-V environment).
 * **Build System:** GNU Make.
-
-## Getting Started
-
-### Prerequisites
-To build and run this kernel, you will need the RISC-V GNU Compiler Toolchain and the QEMU emulator installed on your system:
-* `qemu-system-riscv64`
-* `make`
-
-### Building the Kernel
-Clone the repository and run the standard make command to compile the C++ and Assembly source files into a bootable object file:
-```bash
-make

@@ -25,7 +25,6 @@ The kernel acts as a bridge between the underlying RISC-V hardware and user appl
 
 ### Prerequisites
 To build and run this kernel, you will need the RISC-V GNU Compiler Toolchain and the QEMU emulator installed on your system:
-* `riscv64-unknown-elf-gcc` (and related binutils)
 * `qemu-system-riscv64`
 * `make`
 

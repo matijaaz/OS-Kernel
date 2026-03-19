@@ -1,6 +1,6 @@
 # RISC-V Operating System Kernel
 
-This repository contains a custom-built, fully functional operating system kernel designed for the RISC-V architecture. The project demonstrates a deep understanding of low-level system programming, hardware-software interfaces, and core operating system concepts.
+This repository contains a custom-built, fully functional operating system kernel designed for the RISC-V architecture.
 
 ## Overview
 
